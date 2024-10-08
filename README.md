@@ -1,15 +1,19 @@
-# Trivia Color
+# Jelly Color Merge
 Made with Unity 2019.4.11f1
 
 # Used Technologies
 * DoTween
 * Addressables
 * Cinemachine
+* Shader graph
+* Easy performant outline
 * Scriptables
 * Singleton pattern
-* Stylized water
+* In app  purchases
 * UI toolkit
+* Localization
+* SrDebugger
 * Taptics
   
 # Gameplay Video
-[![Trivia Color](https://img.youtube.com/vi/ToPGemjF0HY/0.jpg)](https://www.youtube.com/watch?v=ToPGemjF0HY)
+[![Jelly Color Merge](https://img.youtube.com/vi/kZ0Wm9BBIHo/0.jpg)](https://www.youtube.com/watch?v=kZ0Wm9BBIHo)
